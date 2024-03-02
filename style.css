@@ -1,0 +1,23 @@
+
+.uddesh{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ud{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+    background-color: white;
+    width: 60%;
+    height: 80%;
+    overflow-y: hidden;
+    padding: 0 50px;
+    border-top: 20px solid rgb(248, 242, 242);
+    color: rgb(39, 39, 40);
+}
